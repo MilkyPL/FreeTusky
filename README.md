@@ -6,6 +6,10 @@ FreeTusky is a beautiful Android client for [Mastodon](https://github.com/tootsu
 
 FreeTusky removes Tusky's implemented blocklist.
 
+# Download & Install
+
+[You can find the latest version here](https://github.com/TheChiefMeat/FreeTusky/releases), simply download the .apk file and install.
+
 ## Features
 
 - Material Design
