@@ -13,9 +13,10 @@ def getGitSha = { ->
 }
 
 android {
+
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.keylesspalace.tusky"
+        applicationId "com.thechiefmeat.freetusky"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 64
@@ -49,6 +50,10 @@ android {
 
     lintOptions {
         disable 'MissingTranslation'
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8

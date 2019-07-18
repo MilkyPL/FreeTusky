@@ -64,9 +64,9 @@
     @retrofit2.http.* <methods>;
 }
 
--keep class com.keylesspalace.tusky.entity.** { *; }
+-keep class com.thechiefmeat.freetusky.entity.** { *; }
 
--keep public enum com.keylesspalace.tusky.entity.*$** {
+-keep public enum com.thechiefmeat.freetusky.entity.*$** {
     **[] $VALUES;
     public *;
 }
