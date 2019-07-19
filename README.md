@@ -4,6 +4,8 @@
 
 FreeTusky is a beautiful Android client for [Mastodon](https://github.com/tootsuite/mastodon). Mastodon is a GNU social-compatible federated social network. That means not one entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.
 
+FreeTusky is a fork of [Tusky](https://github.com/tuskyapp/Tusky).
+
 FreeTusky removes Tusky's implemented blocklist.
 
 # Download & Install
