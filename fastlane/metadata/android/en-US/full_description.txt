@@ -8,3 +8,7 @@ FreeTusky is a lightweight client for Mastodon, a free and open-source social ne
 • Choose between different emoji styles 
 • Optimized for all screen sizes
 • Completely open-source - no non-free dependencies like Google services
+
+FreeTusky is a fork of Tusky.
+
+FreeTusky removes Tusky's implemented blocklist.
